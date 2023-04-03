@@ -1,0 +1,14 @@
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+    width: 500px;
+    align-items: center;
+    border: 1px solid black;
+}
